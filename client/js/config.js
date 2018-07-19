@@ -7,13 +7,13 @@ angular.module('nibs.config', [])
     .constant('FB_APP_ID', '180938355946407')
 
     .constant('STATUS_LABELS', [
-        'Principiante',
-        'Esperto',
-        'Pilota'
+        'Bio Bronze',
+        'Bio Silver',
+        'Bio Gold'
     ])
 
     .constant('STATUS_DESCRIPTIONS', [
-        'Principiante (Beginner) Hai bisogno ancora di un P dietro la tua auto, non ti preoccupare ti insegniamo noi ad essere un vero pilota',
-        'Esperto (Intermediate) Ti manca poco per diventare un vero pilota, per adesso ti riteniamo un esperto sei pronto per il corso di guida sportiva ',
-        'Pilota (Super Power) semplicemente perfetto! Sei uno dei nostri top clienti, ora dimostraci di essere il numero uno '
+        'Bio Bronze (Beginner) Bravo! stai iniziando a provare i prodotti BIO sei nella buona strada per migliorare la tua salute',
+        'Bio Silver (Intermediate) Sei in gran forma! Ti manca poco per diventare un vero Bio Expert ',
+        'Bio Gold (Super Power) Semplicemente perfetto! WOW! '
     ]);
