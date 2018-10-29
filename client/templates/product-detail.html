@@ -10,7 +10,9 @@
                 <img ng-if="product.image"  ng-src="{{product.image}}">
                 <p>{{product.description}}</p>
                 <button class="button button-block button-light" ng-click="saveToWishList()">
-                    Contract Status
+                    <ion-item nav-clear menu-close ui-sref="app.wishlist">
+                        Contract Status
+                    </ion-item>
                 </button>
             </div>
             <div class="item tabs tabs-secondary">
