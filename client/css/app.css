@@ -258,22 +258,22 @@ a {
 }
 
 .bar-status1 {
-    border-color: #556b2f;
-    background-color: #556b2f;
+    border-color: #cc0000;
+    background-color: #cc0000;
     background-image: none;
     color: #fff;
 }
 
 .bar-status2 {
-    border-color: #556b2f ;
-    background-color: #556b2f;
+    border-color: #cc0000 ;
+    background-color: #cc0000;
     background-image: none;
     color: #fff;
 }
 
 .bar-status3 {
-    border-color: #556b2f;
-    background-color: #556b2f;
+    border-color: #cc0000;
+    background-color: #cc0000;
     background-image: none;
     color: #fff;
 }
@@ -281,8 +281,8 @@ a {
 
 .button-status,
 {
-    border-color: #556b2f;
-    background-color: #556b2f;
+    border-color: #cc0000;
+    background-color: #cc0000;
     background-image: none;
     color: #fff;
 }
@@ -387,19 +387,19 @@ a {
 }
 
 .status1-bg {
-    background: #556b2f;
+    background: #cc0000;
 }
 
 .status2-bg {
-    background: #556b2f;
+    background: #cc0000;
 }
 
 .status3-bg {
-    background: #556b2f;
+    background: #cc0000;
 }
 
 .status1 {
-    color: #daa520;
+    color: #cc0000;
 }
 
 .status2 {
@@ -407,7 +407,7 @@ a {
 }
 
 .status3 {
-    color: #ffd700;
+    color: #cc0000;
 }
 
 .icon-status1 {
