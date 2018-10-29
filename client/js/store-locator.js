@@ -33,8 +33,8 @@ angular.module('nibs.store-locator', [])
             currentPosMarker,
 
             icon = L.icon({
-                iconUrl: 'img/leaf-green.png',
-                shadowUrl: 'img/leaf-shadow.png',
+                iconUrl: 'img/aon.png',
+                shadowUrl: '',
                 iconSize:     [38, 38], // size of the icon
                 shadowSize:   [0, 0], // size of the shadow
                 iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
