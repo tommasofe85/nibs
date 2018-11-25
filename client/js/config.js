@@ -14,6 +14,6 @@ angular.module('nibs.config', [])
 
     .constant('STATUS_DESCRIPTIONS', [
         'Chick (Beginner) Good mooning Chick! You started to improve your point, Do you like Amadori? Follow me to growh your status!',
-        'Chicken (Intermediate) Great! You became a beautifull chicken, Are you ready to cook? I am joking :P ',
+        'Chicken (Intermediate) Great! You became a beautifull chicken, Are you ready to be a fantastic dish? I am joking :P ',
         'Rooster(Super Power) Perfect! You are the king, help us to join others Chick now! '
     ]);
