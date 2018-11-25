@@ -7,13 +7,13 @@ angular.module('nibs.config', [])
     .constant('FB_APP_ID', '180938355946407')
 
     .constant('STATUS_LABELS', [
-        'Formula 3 pilot',
-        'Formula 2 pilot',
-        'Formula 1 pilot'
+        'Chick',
+        'Chicken',
+        'Rooster'
     ])
 
     .constant('STATUS_DESCRIPTIONS', [
-        'Formula 3 pilot (Beginner) Bravo! stai iniziando a fare giri veloci, la strada per la Formula 1 è appena iniziata',
-        'Formula 2 pilot (Intermediate) Sei in gran forma! Hai gli occhi dei top team addosso ',
-        'Fomula 1 pilot(Super Power) Semplicemente perfetto! WOW! Professionista! '
+        'Chick (Beginner) Good mooning Chick! You started to improve your point, Do you like Amadori? Follow me to growh your status!',
+        'Chicken (Intermediate) Great! You became a beautifull chicken, Are you ready to cook? I am joking :P ',
+        'Rooster(Super Power) Perfect! You are the king, help us to join others Chick now! '
     ]);
