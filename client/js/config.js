@@ -7,13 +7,13 @@ angular.module('nibs.config', [])
     .constant('FB_APP_ID', '180938355946407')
 
     .constant('STATUS_LABELS', [
-        'Formula 3 pilot',
-        'Formula 2 pilot',
-        'Formula 1 pilot'
+        'Burger',
+        'Double Burger',
+        'Triple Burger'
     ])
 
     .constant('STATUS_DESCRIPTIONS', [
-        'Formula 3 pilot (Beginner) Bravo! stai iniziando a fare giri veloci, la strada per la Formula 1 è appena iniziata',
-        'Formula 2 pilot (Intermediate) Sei in gran forma! Hai gli occhi dei top team addosso ',
-        'Fomula 1 pilot(Super Power) Semplicemente perfetto! WOW! Professionista! '
+        'Burger (Beginner) Good! Your are a baby eater, ready to start on Man vs Burger?',
+        'Double Burger (Intermediate) Fantastic! Man vs Burger you are won the battle! Are you ready to win the war? ',
+        'Triple Burger (Super Power) Perfect! The Burger lost! The war is won! '
     ]);
